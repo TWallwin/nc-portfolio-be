@@ -2,7 +2,7 @@
 
 Our backend api is hosted on heroku at:
 
-https://nc-portfolio-app.herokuapp.com/
+https://nc-portfolio-app.herokuapp.com/api
 
 The front end repo is :
 
